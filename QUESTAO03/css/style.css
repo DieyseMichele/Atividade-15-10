@@ -1,0 +1,94 @@
+.siglas td{
+	font-size:10px;
+	color: #555555;
+	text-align: left;
+}
+.legenda td{
+	font-size:10px;
+	color: #8F8F8F;
+	text-align: left;
+}
+.borda{
+	border-bottom: 2px solid;
+	border-color:#CCCCCC;
+	
+}
+.clasA{
+	color: #003366;
+	font-size:18px;
+	font-weight:bold;
+	text-align: center;
+}
+.clasB{
+	color: #1398BE;
+	font-size:18px;
+	font-weight:bold;
+	text-align: center;
+}
+
+.clasC{
+	color: #DE9800;
+	font-size:18px;
+	font-weight:bold;
+	text-align: center;
+}
+.clasD{
+	color: #CCCCCC;
+	font-size:18px;
+	font-weight:bold;
+	text-align: center;
+}
+.clasE{
+	color: #C91B04;
+	font-size:18px;
+	font-weight:bold;
+	text-align: center;
+}
+.time{
+	font-size:14px;
+	color: #666666;
+	font-weight:bold;
+	text-align: left;
+	
+}
+.pontos{
+	font-size:14px;
+	color: black;
+	font-weight:bold;
+	text-align: center;
+	
+}
+td:nth-child(n+3):nth-child(2n+1){
+	background-color:#F7F7F7;
+}
+td{
+	border:none;
+	font-size:14px;
+	color: #666666;
+	text-align: center;
+	padding: 2px;
+	width:60px;
+	
+}
+tr{
+	border:1px solid;
+	border-color:#DDDDDD;
+}
+th{
+	font-size:13px;
+	color: #999999;
+	font-weight:bold;
+	text-align: center;
+	border:none;
+	
+}
+	
+}
+table{
+	border-width: 1px;
+	border-color:#DDDDDD;
+	
+}
+body{
+	font-family: Arial;
+}

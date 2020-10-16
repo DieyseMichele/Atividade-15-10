@@ -1,0 +1,44 @@
+
+#linha{
+	background-color:#BBBBBB;
+}
+#corpo{
+	margin-top: 5em;
+}
+#lnk{
+	margin-bottom:15px;
+}
+#botao{
+	font-size:14px;
+	background-color: #32A041;
+	float: right;
+	border-radius:5px;
+}
+#cabecalho img{
+	margin-top: 5em;
+	margin-bottom: 2em;
+}
+.container{
+	background-color: #FFFFFF;
+}
+.rodape{
+	margin-top: 10em;
+}
+a{
+	color:#337AB7;
+}
+input{
+	font-size: 14px;
+	
+}
+label{
+	padding-top: 7px;
+	margin-bottom: 0px;
+	font-weight: bold;
+	text-align: right;
+}
+body{
+	font-family: Arial;
+	font-size: 14px;
+	background-color: #EEEEEE;
+}
